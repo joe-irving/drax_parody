@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Drax
-email: axedrax@pm.me
+email: drax@bicycle.ga
 description: >- # this means to ignore newlines until "baseurl:"
   Trees bad. Burn them. Money good. Eat it.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,8 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drax_group
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo
