@@ -27,7 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drax_group
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo
