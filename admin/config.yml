@@ -3,7 +3,7 @@ backend:
   branch: gh-pages
 
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: "assets/media"
 
