@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Our latest bullshit
 date: 2021-04-13 23:00:00 +0000
-image: "/uploads/20210328_154514-2.jpg"
+image: "/u/banner.jpeg"
 categories: ''
 
 ---
