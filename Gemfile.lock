@@ -258,9 +258,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 214)
-  jekyll-feed (~> 0.12)
+  jekyll-feed (~> 0.6)
   jekyll-seo-tag (~> 2.7, >= 2.7.1)
-  jekyll-theme-cayman
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
