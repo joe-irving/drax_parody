@@ -14,3 +14,12 @@ fields:
 - type: file
   name: image
   label: image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: categories
+  type: text
+  config:
+    required: false
+  label: Categories
