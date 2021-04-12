@@ -3,9 +3,7 @@ layout: post
 tags: []
 title: Our latest bullshit
 date: 2021-04-13 23:00:00 +0000
-image: "/u/banner.jpeg"
 categories: ''
-
 ---
 Today, we are happy to announce that we are announcing soon something that is great and world leading and world beating and great.
 
@@ -17,6 +15,6 @@ So here it is:
 
 📢 BULL SHIT 📢
 
-Thank you for you time and lack of patience 
+Thank you for you time and lack of patience
 
 We look forward to all the money

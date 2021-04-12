@@ -37,6 +37,12 @@ plugins:
 
 destination: docs
 
+defaults:
+- scope:
+    path: '_posts'
+  values:
+    image: "/assets/media/default.png"
+
 permalink: pretty
 # Exclude from processing.
 # The following items will not be processed, by default.
