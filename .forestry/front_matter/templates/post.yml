@@ -25,3 +25,5 @@ fields:
   config:
     required: false
   label: Categories
+pages:
+- _posts/our-latest-bullshit.md
