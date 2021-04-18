@@ -16,3 +16,15 @@ We understand there may be some concerns that rise from this. Hopefully this wil
 ## Don't we need trees?
 
 No. Trees are actually bad for your health, instead we recommend a quick death and freezing your body in a cryogenic chamber until the world has burned itself to death.
+
+## How, exactly, does a tree f*ck itself?
+
+That is for us to know and you to dream of.
+
+## What about the trees in my local park?
+
+Yes, those too.
+
+***
+
+Well, we hope that all worries have been cleared up. Off to go pay off another politician 
