@@ -7,7 +7,7 @@ image: "/u/enviva-plant-from-above.jpeg"
 categories: ''
 
 ---
-**After a series of test and all due considerations, Drax shareholders have voted unanimously that trees can "f*ck themselves".**
+**After a series of tests and all due considerations, Drax shareholders have voted unanimously that trees can "f*ck themselves".**
 
 This was entirely expected, as we have been unrelentingly feeding the world with lies about how burning trees is actually wonderful. We are plesently surprised in how quickly it go the this stage, but are grateful non the less.
 
