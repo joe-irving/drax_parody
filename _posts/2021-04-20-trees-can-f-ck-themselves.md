@@ -27,4 +27,4 @@ Yes, those too.
 
 ***
 
-Well, we hope that all worries have been cleared up. Off to go pay off another politician xx
+Well, we hope that all worries have been cleared up. Off to go pay off another politician x
