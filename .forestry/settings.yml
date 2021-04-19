@@ -13,8 +13,8 @@ sections:
   new_doc_ext: md
 upload_dir: assets/media
 public_path: assets/media
-front_matter_path: ''
-use_front_matter_path: false
+front_matter_path: "/assets/media"
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
