@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Trees can F*ck Themselves
 date: 2021-04-20 20:00:00 +0000
-image: "/u/engineer-looking-into-furnace.jpg"
+image: "/assets/media/engineer-looking-into-furnace.jpg"
 categories: ''
 
 ---
