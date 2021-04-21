@@ -10,3 +10,5 @@ categories: ''
 We kindly request all people who plan to stand up against us in protest to piss off.
 
 After today's blockade of our AGM we are outraged, and just want these people to stop.
+
+Thanks xx
