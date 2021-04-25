@@ -6,7 +6,7 @@ tags:
 - poo head
 title: Ecosystems are for poo heads
 date: 2021-04-23 23:00:00 +0000
-image: "/assets/media/al8a0601.jpg"
+image: "/assets/media/drax_biomass_domes_evening.jpg"
 categories: ''
 
 ---
