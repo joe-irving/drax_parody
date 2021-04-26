@@ -25,6 +25,11 @@ fields:
   config:
     required: false
   label: Categories
+- name: background
+  type: file
+  config:
+    maxSize: 64
+  label: Background
 pages:
 - _posts/2021-04-13-our-latest-bullshit.md
 - _posts/2021-04-20-protesters-can-piss-off.md
