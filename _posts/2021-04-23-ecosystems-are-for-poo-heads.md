@@ -8,6 +8,7 @@ title: Ecosystems are for poo heads
 date: 2021-04-23 23:00:00 +0000
 image: "/assets/media/drax_biomass_domes_evening.jpg"
 categories: ''
+background: "/assets/media/al8a0460.jpg"
 
 ---
 In a landmark study published in We Are Not Affiliated With Drax journal, scientist from across the globe have decided that only "poo head" scientists think ecosystems are good 
