@@ -48,7 +48,7 @@ layout: default
             {{ site.author }}
             {% endif %}
             on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
           </p>
         </article>
 
@@ -60,7 +60,8 @@ layout: default
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
+        {% assign twitter_url = 'https://twitter.com/' | append: site.twitter_username %}
+        {% twitter twitter_url  limit=5 %}
       </div>
     </div>
   </div>
