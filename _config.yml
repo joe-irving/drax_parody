@@ -23,7 +23,7 @@ email: drax@bicycle.ga
 description: >- # this means to ignore newlines until "baseurl:"
   Trees bad. Burn them. Money good. Eat it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url:  https://drax.org.uk # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drax_group
 
 # Build settings
@@ -33,7 +33,8 @@ twitter_username: drax_group
 # theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  - jekyll-seo
+  - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 destination: docs
 
