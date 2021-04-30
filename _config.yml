@@ -32,8 +32,12 @@ twitter:
 
 logo: /favicon.ico
 
+social:
+  name: Drax
+  links:
+    - https://twitter.com/drax_group
 
-
+locale: en_GB
 
 # Build settings
 # theme: minima
