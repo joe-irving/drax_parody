@@ -26,6 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url:  https://drax.org.uk # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drax_group
 
+twitter:
+  username: drax_group
+  card: summary
+
+logo: /favicon.ico
+
+
+
+
 # Build settings
 # theme: minima
 # theme: jekyll-theme-cayman
