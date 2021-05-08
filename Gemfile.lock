@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/joe-irving/jekyll-seo-image
+  revision: b61cf18db27c6ee3bea77fb6f6f2c2134474fe6e
+  specs:
+    jekyll-seo-image (0.0.0)
+      jekyll
+      mini_magick
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -46,6 +54,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_magick (4.11.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -68,6 +77,7 @@ DEPENDENCIES
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.6)
   jekyll-paginate (~> 1.1.0)
+  jekyll-seo-image!
   jekyll-seo-tag
   jekyll-twitter-plugin
   kramdown-parser-gfm

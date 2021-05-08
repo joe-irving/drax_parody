@@ -23,7 +23,7 @@ email: drax@bicycle.ga
 description: >- # this means to ignore newlines until "baseurl:"
   Trees bad. Burn them. Money good. Eat it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url:  https://drax.org.uk # the base hostname & protocol for your site, e.g. http://example.com
+url:  "https://rare-rabbit-100.loca.lt" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drax_group
 
 twitter:
@@ -38,6 +38,7 @@ social:
     - https://twitter.com/drax_group
 
 locale: en_GB
+image: "/assets/media/default.png"
 
 # Build settings
 # theme: minima
@@ -48,8 +49,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-twitter-plugin
+  - jekyll-seo-image
 
-destination: docs
+# destination: docs
+
+seo-image:
+  input: background
+  out_path: assets/media/
+  text:
+    color: "#091466"
+    font: "/assets/fonts/rubik/Rubik-Black.ttf"
+  logo: /assets/media/drax-pp.png
 
 defaults:
 - scope:

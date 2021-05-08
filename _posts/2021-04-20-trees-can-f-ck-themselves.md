@@ -3,9 +3,8 @@ layout: post
 tags: []
 title: Trees can F*ck Themselves
 date: 2021-04-20 20:00:00 +0000
-# image: "/assets/media/engineer-looking-into-furnace.jpg"
+background: "/assets/media/engineer-looking-into-furnace.jpg"
 categories: ''
-image: "/assets/media/banner.jpeg-seo.jpg"
 ---
 **After a series of tests and all due considerations, Drax shareholders have voted unanimously that trees can "f*ck themselves".**
 

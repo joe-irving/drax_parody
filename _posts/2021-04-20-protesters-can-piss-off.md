@@ -3,7 +3,7 @@ layout: post
 tags: []
 title: Protesters can piss off
 date: 2021-04-20 23:00:00 +0000
-image: "/assets/media/drax-cooling-tower-looking-up.jpg"
+background: "/assets/media/drax-cooling-tower-looking-up.jpg"
 categories: ''
 
 ---
