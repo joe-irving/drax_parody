@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.1.0"
   gem 'jekyll-seo-tag'
   gem 'jekyll-twitter-plugin'
-  gem 'jekyll-seo-image', git: "https://github.com/joe-irving/jekyll-seo-image"
+  # gem 'jekyll-seo-image', git: "https://github.com/joe-irving/jekyll-seo-image"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
