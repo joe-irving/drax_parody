@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.0"
+gem "jekyll"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 # gem "jekyll-theme-cayman"
@@ -16,7 +16,7 @@ gem "jekyll", "~> 3.9.0"
 # gem "github-pages","~> 214", group: :jekyll_plugins
 # gem 'jekyll-admin', group: :jekyll_plugins
 
-gem 'kramdown-parser-gfm'
+# gem 'kramdown-parser-gfm'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.1.0"
   gem 'jekyll-seo-tag'
   gem 'jekyll-twitter-plugin'
+  gem "jekyll-airtable-import", git: "https://github.com/tippingpointuk/jekyll-airtable-import"
   # gem 'jekyll-seo-image', git: "https://github.com/joe-irving/jekyll-seo-image"
 end
 

@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Drax
+tagline: Burn everything for Money
 email: drax@bicycle.ga
 description: >- # this means to ignore newlines until "baseurl:"
   Trees bad. Burn them. Money good. Eat it.
@@ -49,9 +50,29 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-twitter-plugin
+  - jekyll-airtable-import
   # - jekyll-seo-image
 
 # destination: docs
+
+airtable:
+  posts:
+    app: appJ6ygYuDuYSOmRW
+    table:  tblEDqzcQIME76cjy
+    view: viwKpm1V9g2HRKbj8
+    collection:
+      layout: post
+      slug: title
+  authors:
+    table: tbl9OLRLoD36biwdf
+    collection:
+      layout: author
+      slug: name
+      content: about
+
+collections:
+  authors:
+    output: true
 
 seo-image:
   input: background
